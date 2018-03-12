@@ -1,3 +1,0 @@
-FROM mysql:latest
-MAINTAINER karaga <mohamedkaraga75@gmail.com>
-CMD mysql -u $MYSQL_USER -p $MYSQL_PASSWORD $MYSQL_DATABASE
